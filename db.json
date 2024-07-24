@@ -1,9 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "calculations": [
+    {
+      "id": "1",
+      "num1": 5,
+      "num2": 3,
+      "result": 8
+    },
+    {
+      "id": "8496",
+      "num1": 80,
+      "num2": 20,
+      "result": 100
+    },
+    {
+      "id": "41f9",
+      "num1": 4000,
+      "num2": 5000,
+      "result": 9000
+    },
+    {
+      "id": "50a8",
+      "num1": 300,
+      "num2": 100,
+      "result": 400
+    },
+    {
+      "id": "6444",
+      "num1": "20",
+      "num2": "50",
+      "result": "2050"
+    },
+    {
+      "id": "f11b",
+      "num1": "30",
+      "num2": "50",
+      "result": "3050"
+    },
+    {
+      "id": "24b5",
+      "num1": 100,
+      "num2": 200,
+      "result": 300
+    },
+    {
+      "id": "4422",
+      "num1": 2,
+      "num2": 3,
+      "result": 5
+    }
+  ]
 }
